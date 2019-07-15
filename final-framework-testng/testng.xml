@@ -7,4 +7,5 @@
          <class name = "com.training.sanity.tests.LoginTests" />
       </classes>
    </test>
+   
 </suite>	

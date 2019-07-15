@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Sample test Suite]">
-  <test name="Test">
+<suite name="Sample test Suite">
+<test name="Test">
     <classes>
       <class name="com.training.sanity.tests.Testcase_Med3_1"/>
     </classes>
-  </test> <!-- Test -->
+  </test>
   <test name="Test1">
     <classes>
       <class name="com.training.sanity.tests.Testcase_Med4"/>
     </classes>
-  </test> <!-- Test1 -->
-</suite> <!-- Failed suite [Sample test Suite] -->
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
